@@ -29,7 +29,7 @@ The first model proved difficult to improve on given few parameters to tweak wit
 ## Evaluation & Conclusion
 My final recommendation is to use the Logistic Regression with Grid Search.
 
-The Grid Search model has the highest accuracy when applied to the testing data and will lead to the most efficient use of resources. In other words, if Twitter is trying to predict the sentiment of tweets based on their content, the Grid Search model will be the least likely to point them to false positives (Negative tweets classified as Positive), which would result in a waste of resources.
+The Grid Search model has the highest accuracy when applied to the testing data and least overfitness thus will lead to the most efficient use of resources. In other words, if Twitter is trying to predict the sentiment of tweets based on their content, the Grid Search model will be the least likely to point them to false positives (Negative tweets classified as Positive), which would result in a waste of resources.
 
 If time allows, I would recommend also attempting to tune a Random Forests Model with a GridSearch as further improvement may be found there.
 

@@ -36,6 +36,8 @@ If time allows, I would recommend also attempting to tune a Random Forests Model
 ### Final Notebook
 [Notebook](https://github.com/Wingaero/NLP_Project/blob/main/jupyter_notebook.ipynb)
 
+## Presentation:
+[Presentation](https://github.com/Wingaero/NLP_Project/blob/main/Text_Classification_NLP_Presentation.pdf)
 
 ## Contributers
 Mason Walter <a href = "https://github.com/Wingaero"><img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png' width = '25' height='25'></a><a href="www.linkedin.com/in/mason-c-walter/"><img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' width = '25' height='25'></a>  
